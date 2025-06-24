@@ -88,17 +88,7 @@ where hrank;
    - Visuals: donut charts, bar graphs, KPIs, line graphs, slicers
    - Tooltips and filters for interactivity
 
----
-
-#### 4. **Add a Preview of the Dashboard**
-
-You can upload your dashboard screenshot and embed it:
-
-```markdown
-### 📊 Dashboard Snapshot
-
-![Walmart Power BI Dashboard]("C:\Users\Vrinda\OneDrive\图片\Screenshots\Screenshot 2025-06-24 164727.png")
-```
+![dashboard_preview](https://github.com/dharavathpravalika/walmart-sales-analysis/blob/main/dashboard_preview.png)
 ---
 
 ### 11. Project Publishing and Documentation
