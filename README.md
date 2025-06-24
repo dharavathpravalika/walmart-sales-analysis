@@ -118,7 +118,7 @@ where hrank;
 - **Python Libraries**:
   - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`
 - **Kaggle API Key** (for data downloading)
--**Power BI**(for visualising data and creating Dashboards)
+- **Power BI** (for visualising data and creating Dashboards)
   
 ## Getting Started
 
